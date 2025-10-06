@@ -11,9 +11,9 @@ terhadap tokoh politik Indonesia menggunakan **Transformer (IndoBERT)** dan data
 - `docs/` → dokumentasi penelitian
 
 ## 👥 Tim Peneliti
-- Dosen 1 (Ketua)
-- Dosen 2 (Rekan Peneliti)
-- Mahasiswa (Asisten Riset)
+- Luthfil Khairi, S.Kom., M.Cs. (Ketua)
+- Ajeng Dwi Asti, M.Kom. (Rekan Peneliti)
+- Muhammad Zaki Al Hafiz (Asisten Riset)
 
 ## 🚀 Teknologi
 - Python 3.10+
