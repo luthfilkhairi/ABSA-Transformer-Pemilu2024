@@ -1,0 +1,13 @@
+# Dataset dan model
+dataset/
+results/*.pt
+results/*.json
+
+# Cache dan temporary
+__pycache__/
+*.ipynb_checkpoints/
+*.log
+
+# Virtual environment
+venv/
+.env/
