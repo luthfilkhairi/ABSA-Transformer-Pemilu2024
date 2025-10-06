@@ -20,3 +20,4 @@ terhadap tokoh politik Indonesia menggunakan **Transformer (IndoBERT)** dan data
 - Hugging Face Transformers
 - PyTorch
 - Google Colab
+
